@@ -1,0 +1,14 @@
+/* The first section's text should be bold.
+The last section's text should be bold and italicized. */
+
+button {
+    display: block;
+}
+
+.blue-guinea {
+    color: blue;
+}
+
+.big-guinea {
+    font-size: 3em;
+}
